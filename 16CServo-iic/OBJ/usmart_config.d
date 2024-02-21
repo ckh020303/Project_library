@@ -1,0 +1,16 @@
+..\obj\usmart_config.o: ..\USMART\usmart_config.c
+..\obj\usmart_config.o: ..\USMART\usmart.h
+..\obj\usmart_config.o: ..\USMART\usmart_str.h
+..\obj\usmart_config.o: ..\USER\stm32f10x.h
+..\obj\usmart_config.o: ..\CORE\core_cm3.h
+..\obj\usmart_config.o: R:\keil5\keil_mdk\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\usmart_config.o: ..\USER\system_stm32f10x.h
+..\obj\usmart_config.o: ..\USER\stm32f10x_conf.h
+..\obj\usmart_config.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\obj\usmart_config.o: ..\USER\stm32f10x.h
+..\obj\usmart_config.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\usmart_config.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\usmart_config.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\obj\usmart_config.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\usmart_config.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\usmart_config.o: ..\STM32F10x_FWLib\inc\misc.h
